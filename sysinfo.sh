@@ -13,7 +13,7 @@ cat /etc/os-release | grep "NAME=|VERSION=" | head -n 2
 echo "================================================================"
 
 #KERNEL VERSION
-echo "kernel version version"
+echo "kernel version "
 uname -r
 
 echo "================================================================"
